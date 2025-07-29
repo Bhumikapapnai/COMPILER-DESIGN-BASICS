@@ -6,3 +6,4 @@ DOMAIN:C++ PROGRAMMING
 DURATION:4 WEEKS 
 MENTOR:NEELA SANTOSH
 OUTPUT
+<img width="1470" height="956" alt="Image" src="https://github.com/user-attachments/assets/a6d5eaf5-6fba-4857-993b-288b9fef184a" />
